@@ -1,4 +1,4 @@
-package org.okten.javacore;
+package org.okten.javacore.product;
 
 public class ProductDemoBasicTypes {
 
